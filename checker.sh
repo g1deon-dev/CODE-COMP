@@ -804,7 +804,7 @@ print_summary() {
 main() {
     echo -e "${BOLD}${CYAN}"
     echo "╔════════════════════════════════════════════╗"
-    echo "║   11 DAYS CODING CHALLENGE — CHECKER v4    ║"
+    echo "║   IT DAYS CODING COMPETITION — CHECKER v4  ║"
     echo "╚════════════════════════════════════════════╝"
     echo -e "${RESET}"
 
